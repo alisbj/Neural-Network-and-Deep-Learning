@@ -8,4 +8,9 @@
   - MLP Classification on Cifar-10 Dataset
   - MLP Regression on Uploaded dataset
   - Dimensionality Reduction with PCA and Autoencoder
-3.
+3. Hebb, Auto-associative Net, Discrete Hopfield Network, Bidirectional Associative Memory
+  - Pattern Association using Hebbian Learning Rule
+  - Auto-associative Net
+  - Discrete Hopfield Network
+  - Bidirectional Associative Memory
+

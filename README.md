@@ -18,3 +18,5 @@
   - Implement MAXNET for Finding the maximum Value of Input Vector and Sorting
   - Implement Mexican Hat for Finding the maximum Value of Input Vector
   - Implement Hamming Net
+5. Implement Classification Task over Cifar-10 Dataset with CNN
+6. Transfer Learning for Implement Classification over Cifar-10 Dataset with VGG19 as Backbone

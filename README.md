@@ -22,3 +22,6 @@
 6. Transfer Learning for Implement Classification over Cifar-10 Dataset with VGG19 as Backbone
 7. Semantic Segmentation with FCN and PSPNet over ADE20k Dataset
 8. Object Detection with YOLO5 over Uploaded Dataset
+9. Stock Market Prediction
+10. Text Generation
+11. Contextual Embedding + RNNs

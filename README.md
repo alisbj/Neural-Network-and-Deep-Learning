@@ -27,3 +27,4 @@
 11. Contextual Embedding + RNNs for Normal, HATE,Offensive Tweet Detection
 12. Implement SGAN and VAE over MNIST Dataset
 13. Implement DCGAN over ABSTRACT ART GALLERY
+14. Implement Cycle GAN for Unpaired Image Conversion over Summer2Winter Dataset

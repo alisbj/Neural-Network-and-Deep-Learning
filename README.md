@@ -23,5 +23,5 @@
 7. Semantic Segmentation with FCN and PSPNet over ADE20k Dataset
 8. Object Detection with YOLO5 over Uploaded Dataset
 9. Stock Market Prediction with RNN, LSTM and GRU Networks over APPL and GOOG Dataset
-10. Text Generation
+10. Text Generation over Dataset of Harry Potter and the Goblet of Fire Texts
 11. Contextual Embedding + RNNs

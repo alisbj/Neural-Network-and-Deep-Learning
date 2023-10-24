@@ -4,4 +4,8 @@
   - Createing a Full Adder with Modified McCulloch-Pitts Neuron
   - Data Sparation with Adaline
   - MRII Algorithm for Implement Madaline
-2. 
+2. MLP Classification and Regression and Dimensionality Reduction
+  - MLP Classification on Cifar-10 Dataset
+  - MLP Regression on Uploaded dataset
+  - Dimensionality Reduction with PCA and Autoencoder
+3.

@@ -13,4 +13,8 @@
   - Auto-associative Net
   - Discrete Hopfield Network
   - Bidirectional Associative Memory
-
+4. SOM, Max Net, Mexican Hat, Hamming Net
+  - Implement SOM Network on Fashion_Mnist Dataset
+  - Implement MAXNET for Finding the maximum Value of Input Vector and Sorting
+  - Implement Mexican Hat for Finding the maximum Value of Input Vector
+  - Implement Hamming Net

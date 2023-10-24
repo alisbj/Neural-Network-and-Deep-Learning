@@ -1,4 +1,4 @@
-# Neural-Network-and-Deep-Learning Course
+# Neural Network and Deep Learning Course
 Projects about Neural Network and Deep Learning Course In this repository, the projetcs of the robotics course are presented. The titles of these projects are as fallows:
 1. McCulloch-Pitts, Adaline, Madaline
   - Createing a Full Adder with Modified McCulloch-Pitts Neuron

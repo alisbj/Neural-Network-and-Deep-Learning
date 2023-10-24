@@ -21,3 +21,4 @@
 5. Implement Classification Task over Cifar-10 Dataset with CNN
 6. Transfer Learning for Implement Classification over Cifar-10 Dataset with VGG19 as Backbone
 7. Semantic Segmentation with FCN and PSPNet over ADE20k Dataset
+8. Object Detection with YOLO5 over Uploaded Dataset
